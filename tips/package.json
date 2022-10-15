@@ -1,0 +1,19 @@
+{
+  "name": "tips",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-hook-form": "^7.37.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@hookform/resolvers": "^2.9.9"
+  }
+}
