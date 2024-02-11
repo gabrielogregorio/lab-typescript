@@ -1,3 +1,3 @@
-# js
+# ts e js
 
-Estudos de js
+yarn ts-node .\spread.ts

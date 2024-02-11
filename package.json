@@ -1,0 +1,12 @@
+{
+  "name": "lab-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gabrielogregorio/lab-typescript",
+  "author": "Gabriel Gregório <gabriel.gregorio.1@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
